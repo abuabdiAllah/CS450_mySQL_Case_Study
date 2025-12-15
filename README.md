@@ -1,4 +1,4 @@
-# US Data Case Study — MySQL
+# US Data Case Study - MySQL
 
 ## Overview
 This project involves importing multiple U.S. public datasets into a MySQL database and writing SQL queries to analyze relationships across weather, air quality, demographics, voting, incarceration, and education data.
